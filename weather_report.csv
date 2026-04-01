@@ -1,0 +1,5 @@
+temperature_c,feels_like_c,humidity,description,wind_kmph,city
+8,8,93,Overcast,5,Amsterdam
+9,9,87,Partly cloudy,4,London
+0,-0,100,Freezing fog,4,Berlin
+9,9,81,Partly cloudy,5,Barcelona
